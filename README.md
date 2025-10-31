@@ -40,6 +40,7 @@ I'm a passionate **Data Scientist** with expertise in extracting insights from d
 
 - [LinkedIn](https://www.linkedin.com/in/vasudevanthulasiraman/)
 - Email: vasusharp0304@gmail.com
+- https://www.hackerrank.com/profile/vasumcts96
 
 ---
 
