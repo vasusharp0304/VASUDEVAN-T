@@ -38,7 +38,7 @@ I'm a passionate **Data Scientist** with expertise in extracting insights from d
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/vasusharp0304/)
+- [LinkedIn](https://www.linkedin.com/in/vasudevanthulasiraman/)
 - Email: vasusharp0304@gmail.com
 
 ---
